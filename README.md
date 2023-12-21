@@ -1,2 +1,3 @@
-# config-profiles-HotelRatingService
-This project has config profiles for all the service in HotelRatingService.
+# Spring Configuration Profiles Repository
+
+This repository contains configuration profiles for the Spring-based `USER-SERVICE` application.
