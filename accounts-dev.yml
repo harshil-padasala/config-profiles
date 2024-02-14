@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts related DEV APIs"
   contactDetails:
     name: "John doe - Developer"
-    email: "john@gamil.com"
+    email: "{cipher}62d099304c4de25420688765caa07e10bd0c599e6910cccf1a8e34a0def4d5180b29d640e1d41bb12a621753a6315626accebfaede70dc617cd244f2c2472920"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
